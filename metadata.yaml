@@ -1,11 +1,16 @@
 _repo: Les-Sevriennes_66761
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66761-h/images/cover.jpg
 creator:
   author:
     agent_name: Réval, Gabrielle
     gutenberg_agent_id: '53944'
     url: http://www.gutenberg.org/2009/agents/53944
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66761#Les-Sevriennes
 gutenberg_issued: '2021-11-17'
 identifiers:
   gutenberg: '66761'
